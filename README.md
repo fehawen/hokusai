@@ -16,7 +16,7 @@ Clone the repo.
 cd && git clone https://github.com/fehawen/hokusai.git
 ```
 
-Follow the [installation](https://github.com/fehawen/cpr#install) instructions for `cpr`, but set the environment varialbe `CPR_LIB` to point to this directory instead. That way, `cpr` will use these Hokusai palettes, rather than its default palettes.
+Follow the [installation](https://github.com/fehawen/cpr#install) instructions for `cpr`, but set the environment variable `CPR_LIB` to point to this directory instead. That way, `cpr` will use these Hokusai palettes, rather than its default palettes.
 
 ```sh
 export CPR_LIB=~/hokusai # or wherever you cloned it to
